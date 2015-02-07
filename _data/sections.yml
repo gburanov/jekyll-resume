@@ -3,6 +3,13 @@
 #   name -> Name displayed on the section
 #   id -> used for the CSS id and the yml file name. 
 #   layout -> which resume format to use from _includes/resume
+- name: Location
+  id: location
+  layout: list
+
+- name: Summary
+  id: summary
+  layout: list
 
 - name: Professional
   id: professional

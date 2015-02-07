@@ -3,3 +3,7 @@ _site/
 .DS_Store
 *.swp
 Gemfile.lock
+
+.idea
+.sass-cache
+.bundle

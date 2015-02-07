@@ -1,24 +1,23 @@
 # Use this file to control the main attributes of the website
 
 # You
-name: Philip I. Thomas
+name: Georgy Buranov
 
 # Title for your site as it will appear in google
 # e.g. Resume, Curriculum Vitae, Work History
-title: Resume for Philip I. Thomas
+title: Georgy Buranov CV
 
 # SEO description
-description: Digital resume for Philip I. Thomas, explorer and engineer in San Francisco.
+description: Digital resume for Georgy Buranov, Software Developer
 
 # URL of this resume
-url: 'https://jekyll-resume.philipithomas.com'
+url: 'http://cv.gburanov.me'
 
 # URL of your personal website (make same as URL if you don't have one)
-personal: 'https://www.philipithomas.com'
+personal: 'http://gburanov.me'
 
 # these should be pretty self-explanatory :-P
-email: mail@philipithomas.com
-twitter: philipithomas
+email: gburanov@gmail.com
 
 # Show this in the footer
 copyright: All rights reserved.
