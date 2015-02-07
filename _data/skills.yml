@@ -12,7 +12,8 @@
 
     OSX:
       - Wide expirience (from OSX 10.7)
-      - gdb, lldb
+      - gdb
+      - lldb
       - Writing kernel extensions expirience
 
 - Collaboration tools:
@@ -52,6 +53,69 @@
       - C#
       - Javascript (including jQuery, AngularJS)
 
-- Programming styles:
+    IDE:
+      - Visual Studio (2010, 2005, 2003)
+      - Eclipse
+      - Xcode
+      - Aptana Studio
+      - RubyMine
 
+- Programming styles:
+    OOP:
+      - C++
+      - C#
+      - Java
+      - Good knoweledge of design patterns
+
+    Functional programming:
+     - C++(templates)
+     - Haskell
+
+    Dynamically typed languages:
+     - Ruby
+     - Javascript
+     - Python
+
+- Technologies:
+    Wide expirience:
+      - Win32API
+      - Unicode
+      - COM
+      - ATL
+      - Jet Blue Engine
+      - Hard Drives Partitioning (GPT, MBR, LDM, LVM)
+      - Windows Storage Spaces
+      - Bootability (BIOS, UEFI, MBR, loading stages, GRUB, NTLDR, WBM)
+
+    Moderate expirience:
+      - Boost
+      - Multi-threading
+      - OSX kernel extensions
+      - Ruby on Rails framework
+
+- Testing tools:
+    Unit testing:
+      - jUnit
+      - xUnit
+      - NUnit
+      - cppUnit
+
+    Functional testing:
+      - Cucumber
+
+- Other development tools:
+    Virtualization:
+      - VMWare
+      - ESX 4.0
+      - ESX 5.0
+      - Parallels desktop
+
+    Tools for refactoring:
+      - Devpartner
+      - Simian
+      - Gflags
+
+    UML Tools:
+      - Rational Rose
+      - Microsoft Visio
 

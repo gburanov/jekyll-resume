@@ -1,15 +1,16 @@
 {% for section_hash in blurb %}
   {% for section in section_hash %}
   <div class="cloud-section">
-      <h3>{{ section[0] }}</h3> 
+      <h3>{{ section[0] }}</h3>
+      <ul>
       {% for item in section[1] %}
         <h4>{{ item[0] }}</h4>
-        <ul>
         {% for bullet in item[1] %}
-            <li>{{ bullet | markdownify }}</li>
+          <span class="secondary">{{ bullet }}</span>
+          {% unless forloop.last %}, {% endunless %}
         {% endfor %}
-        </ul>
       {% endfor %}
+      </ul>
   </div>
   {% endfor %}
 

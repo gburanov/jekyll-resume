@@ -5,7 +5,7 @@
 #   layout -> which resume format to use from _includes/resume
 - name: Location
   id: location
-  layout: list
+  layout: summary
 
 - name: Summary
   id: summary
