@@ -11,6 +11,10 @@
   id: summary
   layout: list
 
+- name: Skills
+  id: skills
+  layout: cloud
+
 - name: Professional
   id: professional
   layout: block
@@ -18,14 +22,6 @@
 - name: Education
   id: education
   layout: block
-
-- name: Projects
-  id: projects
-  layout: block
-
-- name: Skills
-  id: skills
-  layout: cloud
 
 - name: Honors
   id: honors
