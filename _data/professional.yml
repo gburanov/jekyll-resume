@@ -1,4 +1,4 @@
-- org:  Avira
+- org:  <a href="http://avira.com">Avira</a>
   role: Software Engineer, Browser Project
   location: Tettnang, DE
   when: Nov 2014 - Now
@@ -9,17 +9,115 @@
   knowledge:
     - Working with really HUGE amount of legacy code
     - Ability to inject your code in correct place in quite small amount of time
+    - Advanced GIT (merging to constantly developing open-source and back)
+
+- org: <a href="http://avira.com">Avira</a>
+  role: Unix and OsX software developer
+  location: Tettnang, DE
+  when: Sep 2013 - Until now
+  responsibilities:
+    - Avira Rescue System (Ubuntu based system for rescue booting and restoring your OS)
+    - OsX version of Avira products
+    - Responsible for mantaining (and writing new code) for kernel extension (driver)
+
+  knowledge:
+    - Agile software development approach
+    - Legacy code unit tests coverage
+    - New code unit test coverage
+    - Working with GIT
+
+- org: <a href="http://acronis.com">Acronis</a>
+  role: Software Developer, Senior Software Developer, UEFI project
+  location: Moscow, RUS
+  when: Aug 2008 - May 2013
+  responsibilities:
+    - Investigation of new booting mechanism (UEFI)
+    - Fix “Bootability restore” module for UEFI
+    - UEFI loader
+    - Understanding, documentation and coding of UEFI boot mechanism for both Windows and Linux
+    - Multiplatform solution
+
+- org: <a href="http://acronis.com">Acronis</a>
+  role: Software Developer, Senior Software Developer, Bootability detect/restore
+  location: Moscow, RUS
+  when: Aug 2008 - May 2013
+  responsibilities:
+    - Detecting/restoring different OSes bootability (different Linux versions, Windows)
+    - Bootability investigation (all levels, from MBR to kernel loading)
+    - refactoring + maintaining code
+    - Multiplatform solution
+
+- org: <a href="http://acronis.com">Acronis</a>
+  role: Software Developer, Senior Software Developer, Fdisk project
+  location: Moscow, RUS
+  when: Aug 2008 - May 2013
+  responsibilities:
+    - Fdisk library has about the same functionality as Linux fdisk. It is the base core library of all Acronis products
+    - Support + new functionality for fdisk library
+    - Code documentation
+    - Maintenance of LDM, MBR, GPT libraries
+    - Implementing Storage spaces support (new Windows 8/2012 feature)
+    - Multiplatform solution
+
+- org: <a href="http://acronis.com">Acronis</a>
+  role: Software Developer, Scheduler project
+  location: Moscow, RUS
+  when: Aug 2008 - May 2013
+  responsibilities:
+    - multiplatform scheduling service for starting tasks (backups,   verification, etc.) at special timepoint
+    - Multiplatform development&debugging (Windows, Linux, Mac)
+    - Module for task scheduling, based on cron (Linux), LauchAgent (Mac) and Windows Service (Windows)
+
+- org: <a href="https://www.alliedtesting.com">Allied Testing</a>
+  role: Software Developer, Reuters project
+  when: Jan 2007 - Sep 2008
+  responsibilities:
+    - Reuters got a huge platform for dealing with different finance aspects Reuters 3000 Xtra.
+    - We were responsible for Calculators plugin. It was calculating market values using predefined templates.
+    - Every day connecting to Paris office
+    - Huge amount of code supporting
+    - Working with bank software (more security and code check)
+    - Invention of unit testing (JUnit library)
+
+- org: <a href="http://software.dell.com/">Quest Software (now part of Dell)</a>
+  role: Software Developer, Recovery Manager for Exchange
+  when: May 2005 – July 2006
+  responsibilities:
+    - Designing Object-Oriented library for Jet Blue Engine.
+    - CRUD API for working with Exchange store (Read, Write, Update, Delete)
+    - Layer over the library – for using with managed code.
+    - Reading messages from store without Exchange Server (No-SQL Jet Blue Database)
+
+  knowledge:
+    -Studying design patterns
+    -Сreation of OO libraries from scratch.
 
 
-- org: Cultivation Capital
-  role: Analyst
-  location: St. Louis, MO
-  when: Mar 2012 - May 2013
-  bullets: 
-    - Performed screening of potential investments with a focus on technical analysis.
-    - Contributed to the analysis of most initial investments, resulting in the fund being recognized as a [Top 12 Midwest Venture Player](http://www.forbes.com/sites/karstenstrauss/2013/08/26/big-money-midwest-12-venture-players/) by Forbes
+- org: <a href="http://axensis.com/company/">Axensis Moscow</a>
+  role: Software Developer, Auditor project, IIS collection module
+  when: Dec 2003 – May 2005
+  responsibilities:
+    - Developing GUI using Qt
+    - DB Storage modification (SQL, C#)
+    - Integration with other modules using COM
+    - Collection IIS information
+    - Improvement of special language for collection (in short, C++ code generation language, based on XML, XSLT)
+  knowledge:
+    - My first job as a software developer.
+    - Studyng STL, Boost, Qt.
+    - Working with SVN, bug tracking system.
 
-- org: Washington University in St. Louis
-  role: Teaching Assistant, General Physics
-  location: St. Louis, MO
-  when: Aug 2011 - May 2013
+- org: Logrus
+  role: QA
+  when: Jul 2002 – August 2003
+  responsibilities:
+    - Manual (70%) and Automated (30%) testing.
+    - Logrus was responsible for localization of huge software projects, like Microsoft Windows and Lotus Notes
+  knowledge:
+    - Working for not full time in a big company I gained knowledge of different processes going on in big companies
+
+- org: MEPHI 26 department
+  role: Software developer
+  when: Sep 2002 – Feb 2004
+  responsibilities:
+    - Payment module for car detection system. It was used for some time on several car stations

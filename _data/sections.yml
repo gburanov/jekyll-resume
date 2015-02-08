@@ -19,10 +19,15 @@
   id: professional
   layout: block
 
+- name: Languages
+  id: languages
+  layout: brief
+
 - name: Education
   id: education
   layout: block
 
-- name: Honors
-  id: honors
-  layout: list
+- name: Additional Trainings
+  id: trainings
+  layout: block
+
