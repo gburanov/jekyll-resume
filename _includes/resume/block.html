@@ -16,9 +16,18 @@
                 <h4>{{ section.location }}</h4>
             </div>
         </div>
-        {% if section.bullets %}
+        {% if section.responsibilities %}
+        <h3>Responsibilties:</h3>
         <ul>
-            {% for bullet in section.bullets %}
+            {% for bullet in section.responsibilities %}
+            <li>{{ bullet | markdownify }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% if section.knowledge %}
+        <h3>Knowlegde:</h3>
+        <ul>
+            {% for bullet in section.knowledge %}
             <li>{{ bullet | markdownify }}</li>
             {% endfor %}
         </ul>

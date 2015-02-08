@@ -1,11 +1,15 @@
 - org:  Avira
-  role: Software Engineer
-  location: San Francisco, CA
-  when: May 2013 - Now
-  bullets: 
-    - Focus on short-term projects in an agile environment to support the 50,000,000 daily users of OpenDNS and Umbrella.
-    - Emphasize rapid deployment across all infrastructure, with production code in front-end MVC, back-end API, Hadoop, server configuration management, advertisement optimization, native Windows application, and native OS X application.
-    - Projects resulted in $100,000+ annual increase in ad revenue, increased account security, retention of top customers, and ongoing release of API.
+  role: Software Engineer, Browser Project
+  location: Tettnang, DE
+  when: Nov 2014 - Now
+  responsibilities:
+    - Browser based on Chromium
+    - Starting new project completely from scratch
+    - Creating project environment (build tools, scripts, documentation)
+  knowledge:
+    - Working with really HUGE amount of legacy code
+    - Ability to inject your code in correct place in quite small amount of time
+
 
 - org: Cultivation Capital
   role: Analyst
