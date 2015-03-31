@@ -46,13 +46,12 @@
 - org: Avira
   role: German courses
   location: Tettnang, DE
-  when: Sep 2013 - March 2014
+  when: Sep 2013 - Now
 
 - org: Cervantes institute, Moscow
   role: Spanish courses
   location: Moscow, RUS
   when: Jan 2010 - Jan 2011
-
 
 - org: Private courses, Moscow
   role: Arabic courses

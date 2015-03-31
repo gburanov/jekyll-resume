@@ -1,3 +1,17 @@
+- org:  <a href="http://gburanov.me/projects.html">Freelance</a>
+  role: Backend Software developer, Team manager
+  location: Moscow, RU
+  when: May 2012 - Now
+  responsibilities:
+    - Workign on projects backend alone from beginning to the very end
+    - Projects mantaining
+    - Details (as well as source code) are avaliable upon request
+  knowledge:
+    - Ruby
+    - Rails
+    - Automated Testing (rack, cucumber)
+    - Tons of gems
+
 - org:  <a href="http://avira.com">Avira</a>
   role: Software Engineer, Browser Project
   location: Tettnang, DE
