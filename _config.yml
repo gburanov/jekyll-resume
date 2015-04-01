@@ -1,5 +1,5 @@
 # Use this file to control the main attributes of the website
-
+port: 9292
 # You
 name: Georgy Buranov
 
@@ -28,6 +28,8 @@ navigation: navigation
 # Google analytics ID: UA-XXXXX-X
 analytics: UA-59957903-3
 
+gems: [ 'jekyll-pandoc-multiple-formats' ]
+
 # Jekyll assets gem
 assets:
   dirname: assets
@@ -53,3 +55,15 @@ exclude: [
   'README.md',
   'LICENSE.md',
 ]
+
+pandoc:
+  skip: false
+  impose: false
+  output: ./tmp
+  flags: '--smart'
+  site_flags: '--toc'
+  outputs:
+    pdf: '--latex-engine=pdflatex'
+  pages:
+    - index.html
+
