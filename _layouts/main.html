@@ -4,7 +4,7 @@ layout: default
 <header class="app-bar promote-layer">
   <div class="app-bar-container">
     <button class="menu"><img src="images/hamburger.svg" alt="menu"></button>
-    <h1 class="logo"><a href="/images/Gburanov-CV.pdf">{{ site.title }}</a></h1>
+    <h1 class="logo">{{ site.title }}</h1>
     <section class="app-bar-actions">
         <button id="loadPdf"><img src="images/pdf.svg" alt="menu"></button>
     </section>
@@ -26,7 +26,7 @@ layout: default
 
   var loadPdf = $('#loadPdf');
   loadPdf.on('click', function() {
-      window.location.href = '/images/Gburanov-CV.pdf';
+      window.location.href = '/images/Gburanov-CV.pdf?stamp={{ site.time }}';
   })
 </script>
 <!-- Built with love using Web Starter Kit -->

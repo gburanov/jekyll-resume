@@ -36,6 +36,7 @@
     navdrawerContainer.classList.toggle('open');
   }
 
+  /*
   main.addEventListener('click', closeMenu);
   menuBtn.addEventListener('click', toggleMenu);
   navdrawerContainer.addEventListener('click', function (event) {
@@ -43,4 +44,5 @@
       closeMenu();
     }
   });
+  */
 })();
