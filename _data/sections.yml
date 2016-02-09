@@ -1,7 +1,7 @@
 # Use this to define the sections of the resume
 # Format:
 #   name -> Name displayed on the section
-#   id -> used for the CSS id and the yml file name. 
+#   id -> used for the CSS id and the yml file name.
 #   layout -> which resume format to use from _includes/resume
 - name: Brief
   id: brief
@@ -11,13 +11,13 @@
   id: summary
   layout: list
 
-- name: Skills
-  id: skills
-  layout: cloud
-
 - name: Career History
   id: professional
   layout: block
+
+- name: Skills
+  id: skills
+  layout: cloud
 
 - name: Languages
   id: languages
@@ -30,4 +30,3 @@
 - name: Additional Trainings
   id: trainings
   layout: block
-
