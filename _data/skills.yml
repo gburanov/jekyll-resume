@@ -18,9 +18,9 @@
 
 - Collaboration tools:
     Repositories:
+      - Git
       - SVN
       - CVS
-      - Git
 
     Web-based repositories:
       - Github
@@ -35,6 +35,7 @@
 
     Code review systems:
       - Code collaboraror
+      - Github pull requestss
 
     Full stack solutions:
       - Atlassian stack (Jira, Bamboo, Stash, Confluence)
@@ -53,11 +54,14 @@
       - C#
       - Javascript (including jQuery, AngularJS, React)
 
+    Learning now:
+      - Rust
+      - Go
+
     IDE:
-      - Visual Studio (2010, 2005, 2003)
+      - Atom.io
+      - Vim
       - Eclipse
-      - Xcode
-      - Aptana Studio
       - RubyMine
 
 - Programming styles:
@@ -65,18 +69,24 @@
       - C++
       - C#
       - Java
+      - Ruby
       - Good knoweledge of design patterns
 
     Functional programming:
      - C++(templates)
      - Haskell
+     - Clojure (basics)
 
     Dynamically typed languages:
      - Ruby
      - Javascript
      - Python
 
-- Technologies:
+- Web stack:
+    Ruby:
+    Microservices:
+
+- OS stack technologies:
     Wide expirience:
       - Win32API
       - Unicode
@@ -105,6 +115,8 @@
 
 - Other development tools:
     Virtualization:
+      - Docker
+      - Vagrant
       - VMWare
       - ESX 4.0
       - ESX 5.0
@@ -118,4 +130,3 @@
     UML Tools:
       - Rational Rose
       - Microsoft Visio
-

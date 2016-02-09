@@ -1,6 +1,19 @@
+- org:  <a href="http://www.wimdu.com/">Wimdu</a>
+  role: Senior Ruby Developer
+  location: Berlin, DE
+  when: Oct 2015 - Now
+  responsibilities:
+    - Mobile Api, Affiliate Api
+    - Supporting mobile API projects (fixing bugs, extending API)
+    - Affiliate API project - start from scratch
+  knowledge:
+    - Getting familiar with AWS stack
+    - Trying to do micro-service approach
+    - Testing approaches for microservices
+
 - org:  <a href="http://gburanov.me/projects.html">Freelance</a>
   role: Backend Software developer, Team manager
-  location: Moscow, RU
+  location: Russia, Germany
   when: May 2012 - Now
   responsibilities:
     - Working on projects backend alone from beginning to the very end
@@ -15,7 +28,7 @@
 - org:  <a href="http://avira.com">Avira</a>
   role: Software Engineer, Browser Project
   location: Tettnang, DE
-  when: Nov 2014 - Now
+  when: Nov 2014 - Oct 2015
   responsibilities:
     - Browser based on Chromium
     - Starting new project completely from scratch
