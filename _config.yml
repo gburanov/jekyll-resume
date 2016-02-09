@@ -45,24 +45,23 @@ assets:
 exclude: [
   'scss',
   '*.rb',
-  '*.yml', 
-  'vendor', 
-  'Gemfile', 
+  '*.yml',
+  'vendor',
+  'Gemfile',
   'Gemfile.lock',
   '*.sh',
   'README.md',
   'LICENSE.md',
 ]
 
-#gems: [ 'jekyll-pandoc-multiple-formats' ]
-#pandoc:
-#  skip: false
-#  impose: false
-#  output: ./tmp
-#  flags: '--smart'
-#  site_flags: '--toc'
-#  outputs:
-#    pdf: '--latex-engine=pdflatex'
-#  pages:
-#    - index.html
-
+gems: [ 'jekyll-pandoc-multiple-formats' ]
+pandoc:
+  skip: false
+  impose: false
+  output: ./tmp
+  flags: '--smart'
+  site_flags: '--toc'
+  outputs:
+    pdf: '--latex-engine=pdflatex'
+  pages:
+    - index.html
