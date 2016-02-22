@@ -9,6 +9,7 @@ gem 'psych'
 # I prefer puma for tests
 gem 'puma'
 
-# generate pdf
-gem 'pandoc-ruby'
-gem 'jekyll-pandoc-multiple-formats', :git => 'https://github.com/fauno/jekyll-pandoc-multiple-formats'
+# generate pdf second Trying
+gem 'pdfkit'
+gem 'nokogiri'
+gem 'haml'
