@@ -7,5 +7,6 @@ Gemfile.lock
 .idea
 .sass-cache
 .bundle
+.byebug_history
 
 tmp

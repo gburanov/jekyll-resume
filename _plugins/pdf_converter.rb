@@ -1,6 +1,7 @@
 require 'pdfkit'
 require 'nokogiri'
 require 'haml'
+require 'byebug'
 
 # config/initializers/pdfkit.rb
 
@@ -23,7 +24,7 @@ module Jekyll
     priority :low
 
     def matches(ext)
-      ext =~ /\.pdf$/i
+      true
     end
 
     def output_ext(ext)
@@ -31,11 +32,15 @@ module Jekyll
     end
 
     def convert(content)
-      puts "111"
-      styled_kit.to_pdf
+      @content = content
+      ret = styled_kit.to_pdf
+            byebug
+      ret
     end
 
     protected
+
+    attr_reader :content
 
     # override to assemble the specific part of the page to print to the PDF document!
     #
@@ -47,6 +52,7 @@ module Jekyll
       css_files.compact.each do |css_ref|
         kit.stylesheets << css_ref
       end
+      kit
     end
 
     def css_files
