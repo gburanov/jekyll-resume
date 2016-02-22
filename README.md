@@ -32,4 +32,7 @@ Configure the basic parts of the website, including the name and description, us
 ## Generate pdf
 ```
     bundle install
+
+    pandoc -o output.docx _site/simple.html
+    pandoc -o output.pdf _site/simple.html
 ```
