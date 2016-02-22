@@ -1,20 +1,20 @@
 - Operation systems:
     Windows:
       - Wide experience (from Windows95 to Windows8)
-      - Good knoweledge of Booting mechanism
-      - Good knoweledge of disk management
+      - Good knowledge of Booting mechanism
+      - Good knowledge of disk management
 
     Linux:
-      - Wide expirience (mostly Ubuntu, Fedora)
-      - Good knoweledge of Booting mechanism
+      - Wide knowledge (mostly Ubuntu, Fedora)
+      - Good knowledge of Booting mechanism
       - gdb
       - Scripting (ability to automate tasks)
 
     OSX:
-      - Wide expirience (from OSX 10.7)
+      - Wide experience (from OSX 10.7)
       - gdb
       - lldb
-      - Writing kernel extensions expirience
+      - Writing kernel extensions experience
 
 - Collaboration tools:
     Repositories:
@@ -35,21 +35,21 @@
 
     Code review systems:
       - Code collaboraror
-      - Github pull requestss
+      - Github pull requests
 
     Full stack solutions:
       - Atlassian stack (Jira, Bamboo, Stash, Confluence)
 
 - Programming Languages:
-    Wide expirience (more then 10 years):
+    Wide experience (more then 10 years):
       - C
       - C++ (including C++11)
 
-    Moderate expirience (from 2 to 5 years):
+    Moderate experience (from 2 to 5 years):
       - Ruby (including Ruby on Rails)
       - Python
 
-    Basic expirience:
+    Basic experience:
       - Java
       - C#
       - Javascript (including jQuery, AngularJS, React)
@@ -70,7 +70,7 @@
       - C#
       - Java
       - Ruby
-      - Good knoweledge of design patterns
+      - Good knowledge of design patterns
 
     Functional programming:
      - C++(templates)
@@ -87,7 +87,7 @@
     Microservices:
 
 - OS stack technologies:
-    Wide expirience:
+    Wide experience:
       - Win32API
       - Unicode
       - COM
@@ -97,7 +97,7 @@
       - Windows Storage Spaces
       - Bootability (BIOS, UEFI, MBR, loading stages, GRUB, NTLDR, WBM)
 
-    Moderate expirience:
+    Moderate experience:
       - Boost
       - Multi-threading
       - OSX kernel extensions

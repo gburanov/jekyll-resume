@@ -14,7 +14,7 @@
 - org:  <a href="http://gburanov.me/projects.html">Freelance</a>
   role: Backend Software developer, Team manager
   location: Russia, Germany
-  when: May 2012 - Now
+  when: May 2012 - Oct 2015
   responsibilities:
     - Working on projects backend alone from beginning to the very end
     - Projects maintaining
@@ -39,7 +39,7 @@
     - Advanced GIT (merging to constantly developing open-source and back)
 
 - org: <a href="http://avira.com">Avira</a>
-  role: Unix and OsX software developer
+  role: Unix and Mac software developer
   location: Tettnang, DE
   when: Sep 2013 - Until now
   responsibilities:
@@ -91,7 +91,7 @@
   location: Moscow, RUS
   when: Aug 2008 - May 2013
   responsibilities:
-    - multiplatform scheduling service for starting tasks (backups,   verification, etc.) at special timepoint
+    - Multiplatform scheduling service for starting tasks (backups,   verification, etc.) at special timepoint
     - Multiplatform development&debugging (Windows, Linux, Mac)
     - Module for task scheduling, based on cron (Linux), LauchAgent (Mac) and Windows Service (Windows)
 
@@ -117,8 +117,7 @@
 
   knowledge:
     -Studying design patterns
-    -Сreation of OO libraries from scratch.
-
+    -OO libraries from scratch.
 
 - org: <a href="http://axensis.com/company/">Axensis Moscow</a>
   role: Software Developer, Auditor project, IIS collection module
@@ -131,7 +130,7 @@
     - Improvement of special language for collection (in short, C++ code generation language, based on XML, XSLT)
   knowledge:
     - My first job as a software developer.
-    - Studyng STL, Boost, Qt.
+    - Learning STL, Boost, Qt.
     - Working with SVN, bug tracking system.
 
 - org: Logrus

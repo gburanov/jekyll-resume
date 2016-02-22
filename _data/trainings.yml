@@ -23,12 +23,12 @@
   location: Online
   when: Jan 2013 - Feb 2013
 
-- org: Online Prineston course  https://class.coursera.org/algs4partI-002/class
+- org: Online Princeton course  https://class.coursera.org/algs4partI-002/class
   role: Algorithms
   location: Online
   when: Feb 2013 - Mar 2013
 
-- org: Online Prineston course   https://class.coursera.org/algs4partII-001/class/index
+- org: Online Princeton course   https://class.coursera.org/algs4partII-001/class/index
   role: Algorithms part 2
   location: Online
   when: Apr 2013 - May 2013
@@ -57,4 +57,3 @@
   role: Arabic courses
   location: Moscow, RUS
   when: Jan 2012 - Jun 2012
-
