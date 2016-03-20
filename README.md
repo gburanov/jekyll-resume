@@ -32,8 +32,8 @@ Configure the basic parts of the website, including the name and description, us
 ## Generate pdf
 ```
     bundle install
-    pandoc -o _site/images/Gburanov-CV.docx _site/simple.html
-    pandoc -o _site/images/Gburanov-CV.pdf _site/simple.html
+    pandoc -o images/Gburanov-CV.docx _site/simple.html
+    pandoc -o images/Gburanov-CV.pdf _site/simple.html
 
     jekyll build
 ```
