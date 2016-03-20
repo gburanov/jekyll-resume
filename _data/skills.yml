@@ -12,15 +12,17 @@
 
     OSX:
       - Wide experience (from OSX 10.7)
-      - gdb
-      - lldb
       - Writing kernel extensions experience
 
 - Collaboration tools:
     Repositories:
-      - Git
+      - Git (including github)
       - SVN
       - CVS
+
+    Messengers:
+      - Hipchat
+      - Flowdock
 
     Web-based repositories:
       - Github
@@ -49,14 +51,14 @@
       - Ruby (including Ruby on Rails)
       - Python
 
+    Learning now:
+      - Rust
+      - Go
+
     Basic experience:
       - Java
       - C#
       - Javascript (including jQuery, AngularJS, React)
-
-    Learning now:
-      - Rust
-      - Go
 
     IDE:
       - Atom.io
@@ -73,7 +75,7 @@
       - Good knowledge of design patterns
 
     Functional programming:
-     - C++(templates)
+     - C++ (templates)
      - Haskell
      - Clojure (basics)
 
@@ -82,9 +84,14 @@
      - Javascript
      - Python
 
-- Web stack:
-    Ruby:
+- Web:
+    Frameworks:
+      - Wide use of Ruby on Rails
+
     Microservices:
+      - Separate deploys (docker)
+      - Communication channels
+      - Small teams
 
 - OS stack technologies:
     Wide experience:
@@ -101,7 +108,6 @@
       - Boost
       - Multi-threading
       - OSX kernel extensions
-      - Ruby on Rails framework
 
 - Testing tools:
     Unit testing:
@@ -109,24 +115,7 @@
       - xUnit
       - NUnit
       - cppUnit
+      - rspec
 
     Functional testing:
-      - Cucumber
-
-- Other development tools:
-    Virtualization:
-      - Docker
-      - Vagrant
-      - VMWare
-      - ESX 4.0
-      - ESX 5.0
-      - Parallels desktop
-
-    Tools for refactoring:
-      - Devpartner
-      - Simian
-      - Gflags
-
-    UML Tools:
-      - Rational Rose
-      - Microsoft Visio
+      - capybara

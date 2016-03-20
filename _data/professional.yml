@@ -6,6 +6,8 @@
     - Mobile Api, Affiliate Api
     - Supporting mobile API projects (fixing bugs, extending API)
     - Affiliate API project - start from scratch
+    - Docker/Puppet deploy
+    - Measuring statistics using Kibana
   knowledge:
     - Getting familiar with AWS stack
     - Trying to do micro-service approach
@@ -22,7 +24,7 @@
   knowledge:
     - Ruby
     - Rails
-    - Automated Testing (rack, cucumber)
+    - Automated Testing (rspec, capybara)
     - Tons of gems
 
 - org:  <a href="http://avira.com">Avira</a>
