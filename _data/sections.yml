@@ -10,10 +10,6 @@
   id: professional
   layout: block
 
-- name: Skills
-  id: skills
-  layout: cloud
-
 - name: Languages
   id: languages
   layout: brief
@@ -25,3 +21,7 @@
 - name: Additional Trainings
   id: trainings
   layout: block
+
+- name: Skills
+  id: skills
+  layout: cloud
