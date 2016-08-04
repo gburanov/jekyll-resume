@@ -14,4 +14,4 @@ gem 'pdfkit'
 gem 'nokogiri'
 gem 'haml'
 
-gem 'byebug'
+#gem 'byebug'
