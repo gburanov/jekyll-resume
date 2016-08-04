@@ -1,7 +1,16 @@
+- org:  <a href="http://www.applift.com/">Wimdu</a>
+  role: Senior Developer (Ruby, Go)
+  location: Berlin, DE
+  when: Jul 2016 - Now
+  responsibilities:
+    - Using Ruby and Go to developer various services for company
+  knowledge:
+    - New language (Go) in production (used to be a hobby)
+
 - org:  <a href="http://www.wimdu.com/">Wimdu</a>
   role: Senior Ruby Developer
   location: Berlin, DE
-  when: Oct 2015 - Now
+  when: Oct 2015 - Jul 2016
   responsibilities:
     - Mobile Api, Affiliate Api
     - Supporting mobile API projects (fixing bugs, extending API)
