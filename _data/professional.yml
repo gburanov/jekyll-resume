@@ -4,25 +4,25 @@
   when: Feb 2017 - Now
   responsibilities:
     - Lead for the iDSP project
-    - Monitoring project for the microservice architechure - increased the stabiliy of the system a lot (Influx, Kapacitor, Prometheus)
+    - Monitoring project for the microservice architecture - increased the stability of the system a lot (Influx, Kapacitor, Prometheus)
     - CI integration for many microservices (Docker, Amazon Beanstack, Mesos, Chronos, etc)
-    - Increated the test coverage of Go projects a lot
+    - Increased the test coverage of Go projects a lot
     - integration of Data Science team with Developers
   knowledge:
-    - Shorten the loop when direct communication with stakeholers
+    - Shorten the loop when direct communication with stakeholders
     - Importance of correct monitoring
-    - How to merge mathematics and engeneers =)
+    - How to merge mathematics and engineers =)
 
 - org:  <a href="http://www.applift.com/">Applift</a>
   role: Senior Developer (Ruby, Go)
   location: Berlin, DE
   when: Jul 2016 - Feb 2017
   responsibilities:
-    - Lots of commnucation with Bangalore office
+    - Lots of communication with Bangalore office
     - Using Go and Ruby to developer various services for company
-    - Monitoring project for the microservice architechure - increased the stabiliy of the system a lot
+    - Monitoring project for the microservice architecture - increased the stability of the system a lot
     - CI integration for many microservices (Docker, Amazon Beanstack, Mesos, Chronos, etc)
-    - integration of several external parters in teh system
+    - integration of several external partners in the system
   knowledge:
     - New language (Go) in production (used to be a hobby)
     - Lots of new Devops knowledge
@@ -34,7 +34,7 @@
   responsibilities:
     - Mobile Api, Affiliate Api
     - Supporting mobile API projects (fixing bugs, extending API)
-    - Affiliate API project - start from scratch. Finished succesfully.
+    - Affiliate API project - start from scratch. Finished successfully.
     - CI with Docker deploy
     - Statistics/Monitoring (Kibana/ELK)
   knowledge:
