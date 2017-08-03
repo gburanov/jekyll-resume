@@ -1,31 +1,3 @@
-- Collaboration tools:
-    Repositories:
-      - Git (including github)
-      - SVN
-      - CVS
-
-    Messengers:
-      - Hipchat
-      - Flowdock
-
-    Web-based repositories:
-      - Github
-      - Bitbucket
-
-    Bug tracking systems:
-      - TrackIt
-      - Clarify
-      - Bugzilla
-      - Jira
-      - Redmine
-
-    Code review systems:
-      - Code collaboraror
-      - Github pull requests
-
-    Full stack solutions:
-      - Atlassian stack (Jira, Bamboo, Stash, Confluence)
-
 - Programming Languages:
     Wide experience (more then 10 years):
       - C
@@ -37,6 +9,7 @@
 
     Learning now:
       - Rust
+      - Scala
 
     Basic experience:
       - Java
@@ -50,21 +23,67 @@
       - Eclipse
       - RubyMine
 
+- Big data:
+  Solutions:
+    - Spark
+    - Hadoop
+    - Mesos
+
+  Monitoring:
+    - InfluxDB
+    - Prometheus
+    - Kapacitor
+
 - Infrastructure:
+  CI:
+    - CircleCI
+    - Travis
+
   IaC:
     - Puppet
 
   Depoy:
     - Docker
     - Kubernates
+    - Mesos
+
+- Collaboration tools:
+    Repositories:
+      - Git (including Github)
+      - SVN
+      - CVS
+
+    Messengers:
+      - Hipchat
+      - Flowdock
+      - Slack
+
+    Web-based repositories:
+      - Github
+      - Bitbucket
+
+    Bug tracking systems:
+      - Jira
+      - Redmine
+      - TrackIt
+      - Clarify
+      - Bugzilla
+
+    Code review systems:
+      - Code collaboraror
+      - Github pull requests
+
+    Full stack solutions:
+      - Atlassian stack (Jira, Bamboo, Stash, Confluence)
 
 - Web:
     Frameworks:
       - Wide use of Ruby on Rails
 
     Microservices:
-      - Separate deploys (docker)
-      - Communication channels
+      - Docker
+      - Distributed messaging (Kafka)
+      - CI
       - Small teams
 
 - OS stack technologies:
@@ -88,4 +107,5 @@
       - rspec
 
     Functional testing:
-      - capybara
+      - Capybara
+      - Cucumber

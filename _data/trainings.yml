@@ -8,27 +8,32 @@
   location: Moscow, RUS
   when: Apr 2008 - Sep 2008
 
-- org:  Online Berkeley course    https://class.coursera.org/saas
+- org: https://www.coursera.org/learn/project-planning/home/welcome
+  role: Initiating and Planning Projects
+  location: Online
+  when: Jan 2017 - Now
+
+- org:  Online Berkeley course https://class.coursera.org/saas
   role: Software as a service (SAAS)
   location: Online
   when: Jan 2012 - Apr 2012
 
-- org:  Online Stanford course  https://www.coursera.org/course/compilers
+- org:  Online Stanford course https://www.coursera.org/course/compilers
   role: Compilers.
   location: Online
   when: Oct 2012 - Dec 2012
 
-- org:  Online Stanford course  https://class.coursera.org/gametheory-2012-002/class
+- org:  Online Stanford course https://class.coursera.org/gametheory-2012-002/class
   role: Game theory.
   location: Online
   when: Jan 2013 - Feb 2013
 
-- org: Online Princeton course  https://class.coursera.org/algs4partI-002/class
+- org: Online Princeton course https://class.coursera.org/algs4partI-002/class
   role: Algorithms
   location: Online
   when: Feb 2013 - Mar 2013
 
-- org: Online Princeton course   https://class.coursera.org/algs4partII-001/class/index
+- org: Online Princeton course https://class.coursera.org/algs4partII-001/class/index
   role: Algorithms part 2
   location: Online
   when: Apr 2013 - May 2013
@@ -46,7 +51,7 @@
 - org: Avira
   role: German courses
   location: Tettnang, DE
-  when: Sep 2013 - Now
+  when: Sep 2013 - Sep 2015
 
 - org: Cervantes institute, Moscow
   role: Spanish courses
