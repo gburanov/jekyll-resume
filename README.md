@@ -1,11 +1,8 @@
 # Jekyll Resume
 
 ## Generate pdf
+* I user rocker it
+* Kinda like docker but with mounting
 ```
-    bundle install
-    jekyll build
-    pandoc -o images/Gburanov-CV.docx _site/simple.html
-    pandoc -o images/Gburanov-CV.pdf _site/simple.html
-
-    jekyll build
+  rocker build .
 ```
