@@ -1,0 +1,17 @@
+FROM ruby:2.4.0
+MAINTAINER Georgy Buranov <gburanov@gmail.com>
+
+MOUNT .:/workdir
+
+WORKDIR /workdir
+
+RUN apt-get update
+RUN apt-get install -y pandoc
+RUN apt-get install -y texlive-latex-base
+RUN apt-get install -y texlive-fonts-recommended
+
+RUN bundle install
+RUN jekyll build
+RUN pandoc -o images/Gburanov-CV.docx _site/simple.html
+RUN pandoc -o images/Gburanov-CV.pdf _site/simple.html
+RUN jekyll build
