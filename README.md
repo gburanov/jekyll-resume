@@ -4,5 +4,5 @@
 * I use rocker
 * Kinda like docker but with mounting
 ```
-  rocker build .
+  rocker build . --no-cache
 ```
