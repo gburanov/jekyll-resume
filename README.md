@@ -1,7 +1,7 @@
 # Jekyll Resume
 
 ## Generate pdf
-* I user rocker it
+* I use rocker
 * Kinda like docker but with mounting
 ```
   rocker build .
