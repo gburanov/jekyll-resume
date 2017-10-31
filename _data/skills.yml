@@ -24,28 +24,28 @@
       - RubyMine
 
 - Big data:
-  Solutions:
-    - Spark
-    - Hadoop
-    - Mesos
+    Solutions:
+      - Spark
+      - Hadoop
+      - Mesos
 
-  Monitoring:
-    - InfluxDB
-    - Prometheus
-    - Kapacitor
+    Monitoring:
+      - InfluxDB
+      - Prometheus
+      - Kapacitor
 
 - Infrastructure:
-  CI:
-    - CircleCI
-    - Travis
+    CI:
+      - CircleCI
+      - Travis
 
-  IaC:
-    - Puppet
+    IaC:
+      - Puppet
 
-  Depoy:
-    - Docker
-    - Kubernates
-    - Mesos
+    Depoy:
+      - Docker
+      - Kubernates
+      - Mesos
 
 - Collaboration tools:
     Repositories:
