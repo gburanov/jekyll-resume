@@ -1,7 +1,16 @@
 - org:  <a href="http://www.applift.com/">Applift</a>
+  role: Senior Software Developer (Go)
+  location: Berlin, DE
+  when: Mar 2018 - Now
+  responsibilities:
+    - Senior Backend Developer
+  knowledge:
+    - Real High Scale - 1 Million Requests per minute
+
+- org:  <a href="http://www.applift.com/">Applift</a>
   role: Lead Senior Developer (Go, Ruby)
   location: Berlin, DE
-  when: Feb 2017 - Now
+  when: Feb 2017 - Mar 2018
   responsibilities:
     - Lead for the iDSP project
     - Monitoring project for the microservice architecture - increased the stability of the system a lot (Influx, Kapacitor, Prometheus)

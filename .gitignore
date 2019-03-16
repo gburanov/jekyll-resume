@@ -9,3 +9,5 @@ Gemfile.lock
 .byebug_history
 
 tmp
+
+_site/
