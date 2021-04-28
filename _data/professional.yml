@@ -3,9 +3,13 @@
   location: Berlin, DE
   when: Mar 2018 - Now
   responsibilities:
-    - Senior Backend Developer
+    - Senior Backend Developer, Team Lead
+    - Part of oncall team
+    - Leading various projects around bidding, DS, etc
+    - Guiding new people and reviewing pull requests
   knowledge:
-    - Real High Scale - 1 Million Requests per minute
+    - High Scale - 1 Million Requests per minute
+    - Data Engineering to allow DS to build and train new data models
 
 - org:  <a href="http://www.applift.com/">Applift</a>
   role: Lead Senior Developer (Go, Ruby)

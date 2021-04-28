@@ -384,11 +384,11 @@ body {
     width: 100%;
     z-index: 9;
     display: none;
-    background-image: -moz-linear-gradient(top, transparent 95%, rgba(0, 0, 0, 0.15) 100%);
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(95%, transparent), color-stop(100%, rgba(0, 0, 0, 0.15)));
-    background-image: -webkit-linear-gradient(top, transparent 95%, rgba(0, 0, 0, 0.15) 100%);
-    background-image: -o-linear-gradient(top, transparent 95%, rgba(0, 0, 0, 0.15) 100%);
-    background-image: -ms-linear-gradient(top, transparent 95%, rgba(0, 0, 0, 0.15) 100%);
+    background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 95%, rgba(0, 0, 0, 0.15) 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(95%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.15)));
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 95%, rgba(0, 0, 0, 0.15) 100%);
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0) 95%, rgba(0, 0, 0, 0.15) 100%);
+    background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 95%, rgba(0, 0, 0, 0.15) 100%);
     background-image: linear-gradient(top, rgba(0, 0, 0, 0.15) 95%, rgba(0, 0, 0, 0.15) 100%);
     -webkit-background-size: 100% 26px;
     -moz-background-size: 100% 26px;
@@ -2103,7 +2103,7 @@ td:last-child:after {
     border-right: 2px solid #ffffff; } }
 
 .table-3 col {
-  width: 229.33333px; }
+  width: 229.3333333333px; }
   @media only screen and (min-width: 800px) {
     .table-3 col {
       width: 288px; } }
@@ -2418,17 +2418,14 @@ object {
 .theme--performance .themed--hover-secondary:hover {
   color: #c4add2; }
 
-.article--multi-device-layouts .article-container h1, .article--multi-device-layouts
-.article-container h2 {
+.article--multi-device-layouts .article-container h1,
+.article--multi-device-layouts .article-container h2 {
   color: #297ea9; }
-.article--introduction-to-media .article-container h1, .article--introduction-to-media
-.article-container h2 {
+.article--introduction-to-media .article-container h1, .article--introduction-to-media .article-container h2 {
   color: #cf423a; }
-.article--user-input .article-container h1, .article--user-input
-.article-container h2 {
+.article--user-input .article-container h1, .article--user-input .article-container h2 {
   color: #2c8566; }
-.article--performance .article-container h1, .article--performance
-.article-container h2 {
+.article--performance .article-container h1, .article--performance .article-container h2 {
   color: #7b5294; }
 
 .nav-theme--multi-device-layouts .themed--hover:hover {
